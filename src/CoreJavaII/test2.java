@@ -1,8 +1,8 @@
 package CoreJavaII;
 
-public class test {
+public class test2 {
 	
-	public test()
+	public test2()
 	{
 		
 		super();
